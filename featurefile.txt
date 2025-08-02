@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Main branch content
+=======
+This is a change from feature branch
+>>>>>>> dc6a0b6 (Add featurefile.txt in feature branch)
